@@ -1,0 +1,3 @@
+# Software_Engineering_Project
+This part is about Syllabus, at present it can display basic Syllabus and add course, delete course, change course information.
+This part is updating...
